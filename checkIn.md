@@ -31,5 +31,9 @@ Take turns.
 Starter Questions:
 
 Can you explain your project? 
+
 What are house's like in your city?  
 
+What has been the most challenging part of your project so far?
+
+What materials will you be using for your HOME?  Why?
