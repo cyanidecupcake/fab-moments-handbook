@@ -35,7 +35,7 @@
 
 <tr>
 <td>26 September</td>
-<td>HOMEs shipped to Fabpals</td>
+<td>HOMEs shipped to FABpals</td>
 </tr>
 
 </table>
