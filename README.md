@@ -1,7 +1,7 @@
 Fab Moments | Home
 =======
 
-This handbook is filled with resources and lesson plans for the Fab Moments 2016 campaign.  Fab Moments host sites can use this handbook to guide discussions and lessons with their students.
+This handbook is filled with resources and lesson plans for the [Fab Moments 2016](http://fabmoments.org/) campaign.  Fab Moments host sites can use this handbook to guide discussions and lessons with their students.
 
 
 ### What is Fab Moments?
