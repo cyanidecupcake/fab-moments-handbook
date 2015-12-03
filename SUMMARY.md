@@ -7,5 +7,5 @@
 * Session 3 | Prototype
 * Session 4 | Build
 * Session 5 | Test & Revise
-* [Tips for FABpal Check In](checkIn.md)
+* [Tips for FABpal Check In](checkinmd.md)
 
