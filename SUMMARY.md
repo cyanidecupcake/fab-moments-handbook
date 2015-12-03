@@ -2,6 +2,6 @@
 
 * [About](README.md)
 * [Session 1 | Brainstorm](session1.md)
-* Timeline
+* [Timeline](timeline.md)
 * Session 2 | Plan
 
