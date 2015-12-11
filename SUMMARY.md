@@ -8,4 +8,5 @@
 * Session 4 | Build
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
+* Guidelines
 
