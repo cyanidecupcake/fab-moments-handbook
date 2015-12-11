@@ -17,7 +17,7 @@ This year’s theme surrounds the idea of “Home”.   Participating youth will
 <br>
 
 ### Who runs FAB Moments?
-FAB Moments is a collaboration between Fab Lab Wellington, Makers Org NZ, and MakerBox.
+FAB Moments is a collaboration between [Fab Lab Wellington](http://www.fablabwgtn.co.nz), [Makers Org NZ](http://makers.org.nz), and [MakerBox](http://www.makerbox.org.nz).
 
 <br>
 
@@ -28,12 +28,16 @@ Any organisation within the Pacific Ring of Fire that works with children and te
 
 ### Definitions
 
-**Host Site
-**Any organisation that agrees to host this project.  Host sites can be non-profits, after-school clubs, Fab Labs, libraries, and schools.
+**Host Site** Any organisation that agrees to host this project.  Host sites can be non-profits, after-school clubs, Fab Labs, libraries, and schools.
 
-**Participants
-**Students, mentors, and educators working on a piece for FAB Moments 2016.
+**Participants** Students, mentors, and educators working on a piece for FAB Moments 2016.
 
-**FABpals
-**Each host site will be connected with one other host site, these connected host sites are referred to as FABpals.  FABpals will communicate with each other throughout the duration of the project.  
+**Teams** Each host site will have at least one team of 3-5 students.  Each team will create one HOME for inclusion in LUX Wellington 2016.
 
+**Mentors** Each host site will have at least one mentor.  Mentors are adults responsible for keeping the teams on schedule, guiding the creative process, and delivering the lesson content. 
+
+**FABpals** Each host site will be connected with one other host site, these connected host sites are referred to as FABpals.  FABpals will communicate with each other throughout the duration of the project.  
+
+**HOME** The art piece created for submission.  The final display will consist of one HOME from each team.
+
+**Facilitator** An adult mentor leading the lesson or activity during any given session.
