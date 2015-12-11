@@ -1,7 +1,5 @@
 FAB Moments | Home
-=======
-
-Test commit.
+=====================
 
 This handbook is filled with resources and lesson plans for the [FAB Moments 2016](http://fabmoments.org/) campaign.  FAB Moments host sites can use this handbook to guide discussions and lessons with their students.
 
