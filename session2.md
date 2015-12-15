@@ -47,7 +47,7 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.
 
 ## Planning
 
-
+Working together complete the planning worksheet.  Consider the sticky notes from last week's brainstorming session. 
 
 
 * What materials will your HOME be made out of?
@@ -57,11 +57,12 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.
 * What electronics will you need for your HOME?
 * What obstacles might you encounter that could make it difficult to complete your HOME?  How will you overcome them?
 
+* What will your HOME look like?  Work together to sketch out ideas.
 
-Working together sketch out ideas of what your HOME might look like.
 
 
-Consider the sticky notes from last week
+Budget
+
 
 Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
 
