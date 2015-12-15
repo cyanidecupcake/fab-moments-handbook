@@ -21,7 +21,7 @@ Within your group you must decide and record:
 * Your team name, this will be use throughout the project
 * Team members
 
-Faciliators: Allow five minutes for this to take place. Once this information is gathered 
+Facilitators: Allow five minutes for this to take place. Once this information is gathered 
 
 
 **Project Manager** responsible for keeping the project on task. Must make sure all paper materials go into the folder and the HOME is put away at the end of each session.
