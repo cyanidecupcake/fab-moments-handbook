@@ -4,6 +4,9 @@ Supplies
 
     Writing utensils (pencils, pens, markers, etc)
     Blank paper
+    Calendar print out (for each group)
+    Planning worksheet (for each group)
+    
     Books of architecture and homes from around the world*
     Examples of materials available to the students*
     Camera to document the session*
@@ -58,10 +61,31 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.
 Working together sketch out ideas of what your HOME might look like.
 
 
+Consider the sticky notes from last week
+
+Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
+
+When your group is done planning take your worksheet to a facilitator for approval.  
 
 
 ### Milestones & Deadlines
 
+Deadline: The date when something must be finished.
+
+Milestone: An important point in a project
+
+Your milestones might be:
+1. Prototype complete
+2. Build complete
+3. Programming complete
+4. Bug testing complete
+5. Project complete
+6. Project shipped -- (No later than 4 July)
+
+
+Using a pencil write your milestones on your calendar along with any tasks you would like to complete in any session.  You can even assign specific tasks to group members so everyone knows that they are doing each session.
+
+Place your calendar in your folder when finished.
 
 
 
@@ -93,19 +117,8 @@ Sketch a design of your HOME.
 Hard Deadline: 4 July (SHIPPED)
 
 
-Deadline: The date when something must be finished.
 
--- Prototype
 
-Milestone: An important point in a project
-
-Your milestones might be:
-1. Prototype complete
-2. Build complete
-3. Programming complete
-4. Bug testing complete
-5. Project complete
-6. Project shipped -- no later than 4 July
 
 
 
@@ -117,24 +130,15 @@ Provide a folder to remain at the host site or with the facilitator.
 
 It also might be helpful to set a budget depending on what the host site can afford.  For younger kids create a simple "store" and fake money.  For teens, a budget can be utilised.
 
-What materials will your HOME be made out of?
 
-Do you know how to create an object using these materials or will you have to learn? (ie: Laser cutter, 3D printer, etc)
 
-What electronics will you need for your HOME?
-
-Working together sketch out ideas of what your HOME might look like.
-
-What obstacles might make it difficult to complete this project?
-
-Consider the sticky notes from last week
-
-Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
 
 
 Things will go wrong, you will get off track, it is not the end of the world.  
 
 
-Do you know how to use these materials or will you have to learn? 
+
+
+
 SAMPLES:
 Simple arduino session, simple laser cutting & 3D printing session, simple git instructions, simple blog instructions, complete a handout for planning process
