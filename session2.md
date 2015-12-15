@@ -7,33 +7,72 @@ Supplies
     Books of architecture and homes from around the world*
     Examples of materials available to the students*
     Camera to document the session*
-
+    
 **Optional*
 
 ---
 
+This session we will be focusing on planning out our project.  This involves deciding what our HOME will look like, as well as setting deadlines and appointing tasks to each group member.
+
+If they have not done so already, students should assemble into their groups.  
+
+Within your group you must decide and record:
+
+* Your team name, this will be use throughout the project
+* Team members
+
+Faciliators: Allow five minutes for this to take place. Once this information is gathered 
 
 
-Have students work within their group.
-
-Team Name:
-Team Members:
 Official Documenters
 *These individuals are in charge of taking photos of the project in progress and posting a brief blog update at the end of each session*
 
 
-objective
 
-Introduce deadline & milestones
 
-Deadline def
+
+---
+
+
+**Objective: **Working together we will brainstorm, plan, prototype, and build an art piece to reflect our ideas of home. This art piece will be shipped to Wellington, New Zealand for display in the LUX light festival.
+
+There are some rules we have to follow when making our HOME:
+
+    Our HOME cannot be larger than H: 331mm W: 264mm D: 345mm
+    Our HOME must light up
+    Our HOME can be made out of any type of material, but it must be durable
+    Our HOME must be able to withstand 10 days outside, possibly in rain and wind
+
+
+Team Name:
+Team Members:
+Official Documenters
+
+
+Hard Deadline: 4 July (SHIPPED)
+
+
+Deadline: The date when something must be finished.
 
 -- Prototype
 
-Milestone def
+Milestone: An important point in a project
+
+Your milestones might be:
+1. Prototype complete
+2. Build complete
+3. Programming complete
+4. Bug testing complete
+5. Project complete
+6. Project shipped -- no later than 4 July
+
+
+
 
 Provide a calendar for students to use
 Provide a folder to remain at the host site or with the facilitator.
+
+Project manager -- responsible for keeping the project on task, responsible for making sure all paper materials go into the folder at the end of each session, responsible for ensuring the 
 
 It also might be helpful to set a budget depending on what the host site can afford.  For younger kids create a simple "store" and fake money.  For teens, a budget can be utilised.
 
@@ -45,10 +84,16 @@ What electronics will you need for your HOME?
 
 Working together sketch out ideas of what your HOME might look like.
 
+What obsticiles might make it difficult to complete this project?
+
 Consider the sticky notes from last week
 
 Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
 
 
+Things will go wrong, you will get off track, it is not the end of the world.  
+
 
 Do you know how to use these materials or will you have to learn? 
+SAMPLES:
+Simple arduino session, simple laser cutting & 3D printing session, simple git instructions, simple blog instructions, complete a handout for planning process
