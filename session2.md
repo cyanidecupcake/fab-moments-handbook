@@ -24,8 +24,17 @@ Within your group you must decide and record:
 Faciliators: Allow five minutes for this to take place. Once this information is gathered 
 
 
-Official Documenters
-*These individuals are in charge of taking photos of the project in progress and posting a brief blog update at the end of each session*
+**Project Manager** responsible for keeping the project on task. Must make sure all paper materials go into the folder and the HOME is put away at the end of each session.
+
+**Official Documenters**
+in charge of taking photos of the project in progress and posting a brief blog update at the end of each session
+
+**Engineers** responsible for the building of the HOME.
+
+**Programmers** responsibile for programming the electrical components within the home. 
+
+Everyone is responsible for the completion of their group's HOME and everyone's input matters.  Just because you have a specific responsibility does not mean you do not have to help with other aspects of the project.
+
 
 
 
@@ -47,6 +56,7 @@ There are some rules we have to follow when making our HOME:
 Team Name:
 Team Members:
 Official Documenters
+
 
 
 Hard Deadline: 4 July (SHIPPED)
@@ -72,7 +82,7 @@ Your milestones might be:
 Provide a calendar for students to use
 Provide a folder to remain at the host site or with the facilitator.
 
-Project manager -- responsible for keeping the project on task, responsible for making sure all paper materials go into the folder at the end of each session, responsible for ensuring the 
+
 
 It also might be helpful to set a budget depending on what the host site can afford.  For younger kids create a simple "store" and fake money.  For teens, a budget can be utilised.
 
