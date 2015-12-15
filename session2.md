@@ -31,7 +31,7 @@ in charge of taking photos of the project in progress and posting a brief blog u
 
 **Engineers** responsible for the building of the HOME.
 
-**Programmers** responsibile for programming the electrical components within the home. 
+**Programmers** responsible for programming the electrical components within the home. 
 
 Everyone is responsible for the completion of their group's HOME and everyone's input matters.  Just because you have a specific responsibility does not mean you do not have to help with other aspects of the project.
 
