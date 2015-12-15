@@ -14,7 +14,10 @@ Supplies
 
 This session we will be focusing on planning out our project.  This involves deciding what our HOME will look like, as well as setting deadlines and appointing tasks to each group member.
 
-If they have not done so already, students should assemble into their groups.  
+
+## Assigning Roles
+
+*If they have not done so already, students should assemble into their groups. * 
 
 Within your group you must decide and record:
 
@@ -39,16 +42,26 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.
 ---
 
 
+## Planning
 
-What materials will your HOME be made out of?
 
-Do you know how to create an object using these materials or will you have to learn? (ie: Laser cutter, 3D printer, etc)
 
-What electronics will you need for your HOME?
+
+* What materials will your HOME be made out of?
+
+* Do you know how to create an object using these materials or will you have to learn? (ie: Laser cutter, 3D printer, etc)
+
+* What electronics will you need for your HOME?
+* What obstacles might you encounter that could make it difficult to complete your HOME?  How will you overcome them?
+
 
 Working together sketch out ideas of what your HOME might look like.
 
-What obstacles might make it difficult to complete this project?
+
+
+
+### Milestones & Deadlines
+
 
 
 
