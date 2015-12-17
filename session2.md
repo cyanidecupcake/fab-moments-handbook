@@ -40,8 +40,8 @@ in charge of taking photos of the project in progress and posting a brief blog u
 
 Everyone is responsible for the completion of their group's HOME and everyone's input matters.  Just because you have a specific responsibility does not mean you do not have to help with other aspects of the project.
 
-<u>Facilitators</u><br>
-Allow 5-10 minutes for groups to discuss and record their team name and roles.
+<div style="background:#E8E8E8; padding:15px;"><b>Facilitator</b><br><br>
+Allow 5-10 minutes for groups to discuss and record their team name and roles.   Once time is up groups should announce their team names to the room.</div>
 
 ---
 
@@ -51,26 +51,24 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.
 Working together complete the planning worksheet.  Consider the sticky notes from last week's brainstorming session. 
 
 
-* What materials will your HOME be made out of?
+* What materials will your HOME be made out of? (ie. MDF, wood, recycled materials, plastic, fabric, etc)
 
 * Do you know how to create an object using these materials or will you have to learn? (ie: Laser cutter, 3D printer, etc)
 
-* What electronics will you need for your HOME?
+* What electronics will you need for your HOME?  (We will be using an Arduino to control any lights or sounds)
+
 * What obstacles might you encounter that could make it difficult to complete your HOME?  How will you overcome them?
 
 * What will your HOME look like?  Work together to sketch out ideas.
 
 
 
-
-
-
-Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
+Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the feasibility of their project.
 
 When your group is done planning take your worksheet to a facilitator for approval.  
 
 
-### Milestones & Deadlines
+## Milestones & Deadlines
 
 Deadline: The date when something must be finished.
 
@@ -92,10 +90,6 @@ Place your calendar in your folder when finished.
 
 
 At the end of the session all folders should be returned to the facilitator.
-
-
-
-
 
 
 ---
