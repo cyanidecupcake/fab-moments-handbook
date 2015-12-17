@@ -6,6 +6,7 @@ Supplies
     Blank paper
     Calendar print out (for each group)
     Planning worksheet (for each group)
+    Folder (for each group)
     
     Books of architecture and homes from around the world*
     Examples of materials available to the students*
@@ -61,7 +62,7 @@ Working together complete the planning worksheet.  Consider the sticky notes fro
 
 
 
-Budget
+
 
 
 Students should meet with a facilitator before the end of the session to pitch their idea.  Facilitators should ask questions to get the students thinking critically about the fesability of their project.
@@ -86,7 +87,11 @@ Your milestones might be:
 
 Using a pencil write your milestones on your calendar along with any tasks you would like to complete in any session.  You can even assign specific tasks to group members so everyone knows that they are doing each session.
 
-Place your calendar in your folder when finished.
+Place your calendar in your folder when finished.  
+
+
+
+At the end of the session all folders should be returned to the facilitator.
 
 
 
@@ -96,50 +101,9 @@ Place your calendar in your folder when finished.
 ---
 
 
-**Objective: **Working together we will brainstorm, plan, prototype, and build an art piece to reflect our ideas of home. This art piece will be shipped to Wellington, New Zealand for display in the LUX light festival.
-
-There are some rules we have to follow when making our HOME:
-
-    Our HOME cannot be larger than H: 331mm W: 264mm D: 345mm
-    Our HOME must light up
-    Our HOME can be made out of any type of material, but it must be durable
-    Our HOME must be able to withstand 10 days outside, possibly in rain and wind
+### Additional Activity: Budget
 
 
-Team Name:
-Team Members:
-Official Documenters
+It might be helpful to set monetary paramaters to keep projects from becoming too expensive or complex. 
 
-
-Sketch a design of your HOME.
-
-
-
-Hard Deadline: 4 July (SHIPPED)
-
-
-
-
-
-
-
-
-Provide a calendar for students to use
-Provide a folder to remain at the host site or with the facilitator.
-
-
-
-It also might be helpful to set a budget depending on what the host site can afford.  For younger kids create a simple "store" and fake money.  For teens, a budget can be utilised.
-
-
-
-
-
-Things will go wrong, you will get off track, it is not the end of the world.  
-
-
-
-
-
-SAMPLES:
-Simple arduino session, simple laser cutting & 3D printing session, simple git instructions, simple blog instructions, complete a handout for planning process
+Facilitators can create simple "stores" within their host site with potential materials and an associated cost for a unit of each material.  At the start of the project present each group with a set amount of fake money and have them plan out a budget for the project.  
