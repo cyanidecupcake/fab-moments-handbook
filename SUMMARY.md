@@ -8,6 +8,7 @@
 * Session 3 | Prototype
 * Session 4 | Build & Code
    * Laser Cutting
+       * 3D Printing
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
 
