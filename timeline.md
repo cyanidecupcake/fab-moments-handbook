@@ -34,7 +34,7 @@
 </tr>
 
 <tr>
-<td>26 September</td>
+<td>26 September, 2016</td>
 <td>HOMEs shipped to FABpals</td>
 </tr>
 
