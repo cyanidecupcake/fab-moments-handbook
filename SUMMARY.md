@@ -7,6 +7,7 @@
 * [Session 2 | Plan](session2.md)
 * Session 3 | Prototype
 * Session 4 | Build & Code
+   * Laser Cutting
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
 
