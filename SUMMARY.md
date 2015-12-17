@@ -10,6 +10,7 @@
    * 3D Printing
    * Laser Cutting
    * Arduino
+   * GitHub
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
 
