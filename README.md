@@ -12,7 +12,7 @@ FAB Moments uses the Fab Lab network to bring people around the globe together t
 
 FAB Moments 2016 focuses on connecting youth in the Pacific Ring of Fire.  Youth will work together on a light-based art installation that will exhibit at Wellington LUX, an annual light festival in Wellington, NZ in August of 2016.
 
-This year’s theme surrounds the idea of “Home”.   Participating youth will work in teams to develop an art piece that explores the idea of home. Upon completion, all pieces will be sent to Wellington and assembled into a larger, coherent piece. 
+This year’s theme surrounds the idea of “Home”.   Participating youth will work in teams to develop an art piece that explores the idea of home. Upon completion, all pieces will be sent to Wellington and assembled into a larger, coherent piece. Once the festival ends, each host site will receive their FabPal’s submission to the festival.
 
 <br>
 
