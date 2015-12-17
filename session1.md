@@ -66,12 +66,18 @@ Nominate a student to read all the sticky notes aloud to the group.  Ideas that 
 
 If necessary, ask for further elaboration on ideas.  If time allows, encourage group discussion on popular ideas.  Record any particularly interesting ideas that may result.
 
-**Facilitators**
 
-    During the Group Share make sure all ideas are read.  Emphasise that no idea is too goofy to share.  All students should have their ideas heard. 
+<div style="background-color:#E8E8E8; padding:15px;">
+
+
+<b>Facilitator</b> <br>
+
+ <br>
+
+During the Group Share make sure all ideas are read.  Emphasise that no idea is too silly to share.  All students should have their ideas heard. <br><br>
     
-    Remember to record the brainstorm ideas in a more permanent way, we will need them for next week.  You can either take a photo at the end of the session or take notes during the group share.
+Remember to record the brainstorm ideas in a more permanent way, we will need them for next week.  You can either take a photo at the end of the session or take notes during the group share.<br><br>
     
-    Collect all brainstorm ideas (even ones not shared) at the end of the session.
+Collect all brainstorm ideas (even ones not shared) at the end of the session.
     
-    Take a few photos of the planning session and update to the blog.  The following week official documenters for the project will be assigned.
+Take a few photos of the planning session and update to the blog.  The following week official documenters for the project will be assigned.</div>
