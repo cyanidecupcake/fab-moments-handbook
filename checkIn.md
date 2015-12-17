@@ -7,7 +7,7 @@ It can be difficult organising a video chat with multiple participants.  Use thi
 
 
 
-Mentors should schedule check in two weeks in advance of the call. Use [TimeAndDate.com](http://www.timeanddate.com/worldclock/meeting.html) to account for time differences.
+Mentors should schedule their check in two weeks in advance of the call. Use [TimeAndDate.com](http://www.timeanddate.com/worldclock/meeting.html) to account for time differences.
 
 
 At least 3 video chats should take place throughout the course of the project. Recommended times for FABpal check ins are:
@@ -18,22 +18,37 @@ At least 3 video chats should take place throughout the course of the project. R
 - Revising Stage
 
 
-Plan what questions you want to ask before the chat begins
+##Before the Chat
+As a group plan what questions you want to ask and write them down in a Google Doc.
 
-Remind your participants of the city and country of their FABpal's host site.
+Decide who will be asking questions during the chat.  You can rotate Askers or have one dedicated Asker. 
+
+Remind your group of the city and country of their FABpal's host site.  If you want, you can research a bit about your FABpal's home, but it might be fun to just ask them! 
 
 Test your internet conductivity
 
-Listen to what your FABpal is saying, ask follow up questions if necessary
 
-Take turns.
+##During the Chat
+The Listeners and the Askers should each have access to a computer with the Google Doc page open. 
 
-Starter Questions:
+As the chat takes place Listeners can write questions in the Google Doc that they want the Asker to ask.
 
-Can you explain your project? 
+Listen to what your FABpal is saying when they answer your question.  Ask follow up questions if necessary.
 
-What are house's like in your city?  
+Remember to take turns, you should ask a question, then your FABpal should have the opportunity to ask you a question.
 
-What has been the most challenging part of your project so far?
+## Starter Questions:
 
-What materials will you be using for your HOME?  Why?
+
+* Can you explain your project? 
+
+* What are houses like where you live?  
+
+* What has been the most challenging part of your project so far?
+
+* What has been your favourite part of your project so far?
+
+* What materials will you be using for your HOME?  Why?
+
+* What electronics will you be using in your HOME?  Why?
+
