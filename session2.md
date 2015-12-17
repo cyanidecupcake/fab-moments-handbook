@@ -1,16 +1,15 @@
 # Session 2 | Plan
 
-Supplies
+**Supplies**
 
-    Writing utensils (pencils, pens, markers, etc)
-    Blank paper
-    Calendar print out (for each group)
-    Planning worksheet (for each group)
-    Folder (for each group)
-    
-    Books of architecture and homes from around the world*
-    Examples of materials available to the students*
-    Camera to document the session*
+* Writing utensils (pencils, pens, markers, etc)
+* Blank paper
+* Calendar print out (for each group)
+* Planning worksheet (for each group)
+* Folder (for each group)
+* Books of architecture and homes from around the world*
+* Examples of materials available to the students*
+* Camera to document the session*
     
 **Optional*
 
@@ -70,9 +69,9 @@ When your group is done planning take your worksheet to a facilitator for approv
 
 ## Milestones & Deadlines
 
-Deadline: The date when something must be finished.
+**Deadline** The date when something must be finished.
 
-Milestone: An important point in a project
+**Milestone** An important point in a project
 
 Your milestones might be:
 1. Prototype complete
@@ -83,7 +82,7 @@ Your milestones might be:
 6. Project shipped -- (No later than 4 July)
 
 
-Using a pencil write your milestones on your calendar along with any tasks you would like to complete in any session.  You can even assign specific tasks to group members so everyone knows that they are doing each session.
+Using a pencil, write your milestones on your calendar along with any tasks you would like to complete in the next session.  You can even assign specific tasks to group members so everyone knows what they are doing next session.
 
 Place your calendar in your folder when finished.  
 
@@ -98,6 +97,6 @@ At the end of the session all folders should be returned to the facilitator.
 ### Additional Activity: Budget
 
 
-It might be helpful to set monetary paramaters to keep projects from becoming too expensive or complex. 
+It might be helpful to set monetary parameters to keep projects from becoming too expensive or complex. 
 
 Facilitators can create simple "stores" within their host site with potential materials and an associated cost for a unit of each material.  At the start of the project present each group with a set amount of fake money and have them plan out a budget for the project.  
