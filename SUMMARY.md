@@ -13,4 +13,5 @@
    * GitHub
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
+* Tips for Blogging
 
