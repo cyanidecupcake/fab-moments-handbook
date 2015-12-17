@@ -1,11 +1,13 @@
 # Guidelines
 
-The Brief: In order to make this accessible for as many age teams as possible we have set some basic guidelines, but leave much of the creative process up to each individual team.
 
-In a small team design and build a house. The shape and style of the house is up to your team as long as it does not exceed the maximum dimensions and you can use your choice of material.
+In order to make this project accessible to a wide variety of age-ranges we have set only basic guidelines.  Much of the creative process is up to each individual team and the capabilities of their host site.
+
+### The Brief 
+In a small team design and build a HOME. The shape and style of the HOME is up to your team as long as it does not exceed the maximum dimensions and you can use your choice of material.
 
 **Maximum Size:**<br>
-H: 331mm W: 264mm D: 345mm (Metric)
+H: 331mm W: 264mm D: 345mm (Metric) <br>
 H: 13 inches W: 10.4 inches D: 13.5 inches (Imperial)
 
 Must light up or be illuminated (if adding electronics is too complex or not necessary, then you can choose to have lighting from above or underneath). LUX is a light festival, so light is important.
