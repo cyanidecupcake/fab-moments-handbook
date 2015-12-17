@@ -19,7 +19,7 @@ At least 3 video chats should take place throughout the course of the project. R
 
 
 ##Before the Chat
-As a group plan what questions you want to ask and write them down in a Google Doc.
+As a group plan what questions you want to ask and write them down in a Google Doc or Etherpad.
 
 Decide who will be asking questions during the chat.  You can rotate Askers or have one dedicated Asker. 
 
@@ -29,13 +29,15 @@ Test your internet conductivity
 
 
 ##During the Chat
-The Listeners and the Askers should each have access to a computer with the Google Doc page open. 
+The Listeners and the Askers should each have access to a computer with the Google Doc or Etherpad page open. 
 
-As the chat takes place Listeners can write questions in the Google Doc that they want the Asker to ask.
+As the chat takes place Listeners can write questions in the Google Doc or Etherpad that they want the Asker to ask.
 
 Listen to what your FABpal is saying when they answer your question.  Ask follow up questions if necessary.
 
 Remember to take turns, you should ask a question, then your FABpal should have the opportunity to ask you a question.
+
+When the chat is over, remember to thank your FABpals for talking with you.
 
 ## Starter Questions:
 
@@ -52,3 +54,6 @@ Remember to take turns, you should ask a question, then your FABpal should have 
 
 * What electronics will you be using in your HOME?  Why?
 
+##After the Chat
+
+Groups should reflect on what they learned from their FABpals. Was anything surprising? Did any of their responses bring up more questions you want to ask next time?
