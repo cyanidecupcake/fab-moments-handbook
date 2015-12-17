@@ -3,7 +3,7 @@
 
 In order to make this project accessible to a wide variety of age-ranges we have set only basic guidelines.  Much of the creative process is up to each individual team and the capabilities of their host site.
 
-### The Brief 
+## The Brief 
 In a small team design and build a HOME. The shape and style of the HOME is up to your team as long as it does not exceed the maximum dimensions and you can use your choice of material.
 
 **Maximum Size**
