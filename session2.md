@@ -5,7 +5,7 @@
 * Writing utensils (pencils, pens, markers, etc)
 * Blank paper
 * Calendar print out (for each group)
-* Planning worksheet (for each group)
+* [Planning worksheet](https://github.com/cyanidecupcake/fab-moments-handbook/blob/master/Worksheets/planningWkst.pdf) (for each group)
 * Folder (for each group)
 * Books of architecture and homes from around the world*
 * Examples of materials available to the students*
