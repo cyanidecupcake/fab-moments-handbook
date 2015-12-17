@@ -21,7 +21,7 @@
 ### Group Discussion Questions:
 
 
-* What does home mean to you?
+* What does *home* mean to you?
 * How does the local environment impact housing?
 * What sounds symbolise your neighbourhood?
 * What’s the most important room in your house? Why?
