@@ -18,7 +18,7 @@
 <ul><li>Brainstorm</li>
 <li>Plan</li>
 <li>Prototype</li>
-<li>Build</li>
+<li>Build & Code</li>
 <li>Test & Revise</li>
 </td>
 </tr>
