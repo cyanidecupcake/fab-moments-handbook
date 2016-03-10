@@ -18,17 +18,15 @@
 
 
 
-### Group Discussion Questions:
+### Group Discussion:
 
+As the old saying goes, there's no place like home!  But what is home?  The idea of home holds many different meanings for different people.  At its most sterile, a home is a building in which people live.  Home can be a small apartment, a house with a large yard, or a bach on the beach.   Whether big or small the places we call home can also be a source of great emotion.  These are our tūrangawaewae, ‘a place to stand’.  The spaces in which we find belonging and safety.
 
+* What does type of homes are there?  What do they look like?
 * What does *home* mean to you?
+* What feelings can home evoke? 
+* What is the most important room in your house?  Why?
 * How does the local environment impact housing?
-* What sounds symbolise your neighbourhood?
-* What’s the most important room in your house? Why?
-* What might a house of the future look like?
-* How do you think your home might differ from a home in (Japan/Kenya/Dubai/Norway/etc.)?
-
-
 
 ### Introduction to Fab Moments | HOME
 
@@ -56,8 +54,6 @@ Participants can draw/write their ideas for what the write as many ideas as poss
 * What materials might you use?
 * How might light be used?
 * What will your HOME look like?
-
-
 
 ### Group Share
 Each participant lists three of their favourite ideas.  Each idea should be on a new sticky note.  All students then place their three sticky notes on a designated wall or similar space for everyone to read.
