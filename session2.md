@@ -28,14 +28,17 @@ Within your group you must decide and record:
 * Team roles, write down which role each team member will have
 
 
-**Project Manager** responsible for keeping the project on task. Must make sure all paper materials go into the folder and the HOME is put away at the end of each session.
+**Project Manager** 
+responsible for keeping the project on task. Must make sure all paper materials go into the folder and the HOME is put away at the end of each session.
 
 **Official Documenters**
 in charge of taking photos of the project in progress and posting a brief blog update at the end of each session
 
-**Engineers** responsible for the building of the HOME.
+**Engineers** 
+responsible for the building of the HOME.
 
-**Programmers** responsible for programming the electrical components within the home.
+**Programmers** 
+responsible for programming the electrical components within the home.
 
 Everyone is responsible for the completion of their group's HOME and everyone's input matters.  Just because you have a specific responsibility does not mean you do not have to help with other aspects of the project.
 
@@ -50,7 +53,7 @@ Allow 5-10 minutes for groups to discuss and record their team name and roles.  
 Working together complete the planning worksheet.  Consider the sticky notes from last week's brainstorming session. 
 
 
-* What materials will your HOME be made out of? (ie. MDF, wood, recycled materials, plastic, fabric, etc)
+* What materials will your HOME be made out of? (ie. plywood, recycled materials, acrylic, fabric, etc)
 
 * Do you know how to create an object using these materials or will you have to learn? (ie: Laser cutter, 3D printer, etc)
 
@@ -58,7 +61,7 @@ Working together complete the planning worksheet.  Consider the sticky notes fro
 
 * What obstacles might you encounter that could make it difficult to complete your HOME?  How will you overcome them?
 
-* What will your HOME look like?  Work together to sketch out ideas.
+* What will your HOME look like?  Work together to sketch out ideas.  Consider that your home will be three-dimensional, but some people may view it through a window.
 
 
 

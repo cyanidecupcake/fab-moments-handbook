@@ -5,7 +5,7 @@
 * [Timeline](timeline.md)
 * [Session 1 | Brainstorm](session1.md)
 * [Session 2 | Plan](session2.md)
-* Session 3 | Prototype
+* [Session 3 | Prototype](session_3__prototype.md)
 * Session 4 | Build & Code
    * Laser Cutting
    * Arduino
