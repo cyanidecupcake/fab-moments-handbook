@@ -7,7 +7,6 @@
 * [Session 2 | Plan](session2.md)
 * Session 3 | Prototype
 * Session 4 | Build & Code
-   * 3D Printing
    * Laser Cutting
    * Arduino
    * GitHub
