@@ -43,7 +43,8 @@ Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle t
     b. Apply > OK
     
 
->     Power vs Speed - running a hand through the candle flame.  PPI (surface treatment) - how many pulses - acrylic high PPI, cotton low PPI - doesn’t help cut deeper.
+>     Power vs Speed - running a hand through the candle flame.  
+>     PPI (surface treatment) - how many pulses - acrylic high PPI, cotton low PPI - doesn’t help cut deeper.
 
     
 7. Time your files
