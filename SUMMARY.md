@@ -10,6 +10,7 @@
    * [Laser Cutting](laser.md)
    * Arduino
    * GitHub
+   * Vector File Creation
 * Session 5 | Test & Revise
 * [Tips for FABpal Check In](checkIn.md)
 * Tips for Blogging
