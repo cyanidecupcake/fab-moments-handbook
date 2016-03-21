@@ -32,24 +32,23 @@ The laser runs from left to right, cuts running lengthwise will cut faster than 
        <li>Move in .01mm increments to get the focus tool precise and snug underneath the bottom of the carriage.  Make sure the flat part of the focus tool is flush against the side of the carriage.</li>
        <li>Put focus tool away</li>
        </ol>
-       </ol>
-  
-4.  Close the laser cutter lid 
-Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle the lid from side-to-side.
-
-5.  Place your project file on the computer desktop and open Illustrator
-6.  Select Print > Setup > Preferences > Manual
-    a.  Select the profile you want to change (ie: red, blue, black) Load > Laser Settings > System C/Laser Settings
-    b.  Apply > OK
-    
+<li>Close the laser cutter lid<br>
+Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle the lid from side-to-side.</li>
+<li>Place your project file on the computer desktop and open Illustrator</li>
+<li>Select Print > Setup > Preferences > Manual</li>
+<ol>
+    <li>Select the profile you want to change (ie: red, blue, black) Load > Laser Settings > System C/Laser Settings</li>
+    <li>Apply > OK</li>
+    </ol>
 
   Power vs Speed - running a hand through the candle flame.  
   PPI (surface treatment) - how many pulses - acrylic high PPI, cotton low PPI  - doesn’t help cut deeper.
 
     
-7. Time your files
-8. Pull the red lever behind the laser cutter, this turns on the compressor (clears smoke & debris) and turn on the bed extraction.  You can also turn on top extraction if cutting out objects with small details or light materials.  Bed extraction pulls from underneath, top extraction pulls from above the bed.  
-9. Press the green play button to start cutting
+<li>Time your files</li>
+<li>Pull the red lever behind the laser cutter, this turns on the compressor (clears smoke & debris) and turn on the bed extraction.  You can also turn on top extraction if cutting out objects with small details or light materials.  Bed extraction pulls from underneath, top extraction pulls from above the bed.</li>
+<li>Press the green play button to start cutting</li>
+
 ---
 **Note:**
 
@@ -62,7 +61,8 @@ Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle t
 * There is a fire extinguisher in the event of a fire
 
 ---
-10. When the job finishes do not move the material until you check to make sure it cut the whole way through.
+<li>When the job finishes do not move the material until you check to make sure it cut the whole way through.</li>
+</ol>
 
 
 
