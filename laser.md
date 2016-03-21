@@ -1,7 +1,7 @@
 # Laser Cutting
-*These instructions are specifically for the laser cutter at Fab Lab Wgtn.  Your laser cutter may vary.
-*
-[Template File](http://www.fablabwgtn.co.nz/sites/default/files/downloads/Large%20Laser%20template.ait) for Adobe Illustrator (Right click, save as)
+*These instructions are specifically for the laser cutter at Fab Lab Wgtn.  Your laser cutter may vary.*
+
+[Template File](http://www.fablabwgtn.co.nz/sites/default/files/downloads/Large%20Laser%20template.ait) for Adobe Illustrator (Right click, save as) <br>
 Template File for Inkscape (coming soon)
 
 You must prepare your vector file before you start to set up the laser cutter.
