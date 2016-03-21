@@ -24,15 +24,12 @@ The laser runs from left to right, cuts running lengthwise will cut faster than 
 
 1. Turn on the laser
 2. Place material on the bed, make sure it lies flat
-3. Focus the laser
-  a. Put into focus mode
-  b. Focus the laser on the Z axis
-
-> Press the button in the lower-right hand corner of the manual control pad.  The laser focus tool lives to the left of the laser.   Place the focus tool on top of your material, then line the 45* slope with the front of the laser carriage.  Use the up and down arrows (reversed) to move the cutting bed up and down.
-
-> Move in .01mm increments to get the focus tool precise and snug underneath the bottom of the carriage.  Make sure the flat part of the focus tool is flush against the side of the carriage.
-
-  c. Put focus tool away
+3. Focus the laser on the Z axis
+   a. Put into focus mode
+   b. Place the focus tool on top of your material, 
+   c. Line the 45 slope with the front of the laser carriage.  Use the up and down arrows (reversed) to move the cutting bed up and down.
+   d. Move in .01mm increments to get the focus tool precise and snug underneath the bottom of the carriage.  Make sure the flat part of the focus tool is flush against the side of the carriage.
+   e. Put focus tool away
   
 4. Close the laser cutter lid 
 Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle the lid from side-to-side.
