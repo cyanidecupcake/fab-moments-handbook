@@ -39,15 +39,14 @@ Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle t
 <ol>
     <li>Select the profile you want to change (ie: red, blue, black) Load > Laser Settings > System C/Laser Settings</li>
     <li>Apply > OK</li>
-    </ol>
-
-  Power vs Speed - running a hand through the candle flame.  
-  PPI (surface treatment) - how many pulses - acrylic high PPI, cotton low PPI  - doesn’t help cut deeper.
-
+</ol>
     
 <li>Time your files</li>
 <li>Pull the red lever behind the laser cutter, this turns on the compressor (clears smoke & debris) and turn on the bed extraction.  You can also turn on top extraction if cutting out objects with small details or light materials.  Bed extraction pulls from underneath, top extraction pulls from above the bed.</li>
 <li>Press the green play button to start cutting</li>
+
+<li>When the job finishes do not move the material until you check to make sure it cut the whole way through.</li>
+</ol>
 
 ---
 **Note:**
@@ -61,10 +60,10 @@ Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle t
 * There is a fire extinguisher in the event of a fire
 
 ---
-<li>When the job finishes do not move the material until you check to make sure it cut the whole way through.</li>
-</ol>
 
 
+Power vs Speed - running a hand through the candle flame.  
+  PPI (surface treatment) - how many pulses - acrylic high PPI, cotton low PPI  - doesn’t help cut deeper.
 
 
 
