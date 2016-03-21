@@ -21,12 +21,14 @@ Artboard/Canvas
 What is a vector anyway? 
 
 vectors keep their shape even when resizing
+mathematical equation
+.ai, .eps, .svg
 
-Cut -- cuts completely through the material
+Cut -- cuts completely through the material 
 
 Engrave -- takes away some of the material, but does not cut the whole way through
 
-Raster -- engraves a picture
+Raster -- engraves a picture (uses pixels, jpeg, png)
 convert images to grayscale
 (raster adds time) 
 
