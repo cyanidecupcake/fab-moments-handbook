@@ -7,7 +7,7 @@
 * [Session 2 | Plan](session2.md)
 * [Session 3 | Prototype](session_3__prototype.md)
 * Session 4 | Build & Code
-   * Vector File Creation
+   * [Vector File Creation](vector_file_creation.md)
    * [Laser Cutting](laser.md)
    * Arduino
    * GitHub
