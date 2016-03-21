@@ -28,16 +28,16 @@ The laser runs from left to right, cuts running lengthwise will cut faster than 
      a.  Put into focus mode
      b.  Place the focus tool on top of your material, 
      c.  Line the 45 slope with the front of the laser carriage.  Use the up and down arrows (reversed) to move the cutting bed up and down.
-     d. Move in .01mm increments to get the focus tool precise and snug underneath the bottom of the carriage.  Make sure the flat part of the focus tool is flush against the side of the carriage.
-     e. Put focus tool away
+     d.  Move in .01mm increments to get the focus tool precise and snug underneath the bottom of the carriage.  Make sure the flat part of the focus tool is flush against the side of the carriage.
+     e.  Put focus tool away
   
-4. Close the laser cutter lid 
+4.  Close the laser cutter lid 
 Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle the lid from side-to-side.
 
-5. Place your project file on the computer desktop and open Illustrator
-6. Select Print > Setup > Preferences > Manual
-    a. Select the profile you want to change (ie: red, blue, black) Load > Laser Settings > System C/Laser Settings
-    b. Apply > OK
+5.  Place your project file on the computer desktop and open Illustrator
+6.  Select Print > Setup > Preferences > Manual
+    a.  Select the profile you want to change (ie: red, blue, black) Load > Laser Settings > System C/Laser Settings
+    b.  Apply > OK
     
 
   Power vs Speed - running a hand through the candle flame.  
