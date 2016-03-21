@@ -22,9 +22,9 @@ The laser runs from left to right, cuts running lengthwise will cut faster than 
 
 **How to Setup the Laser:**
 
-1. Turn on the laser
-2. Place material on the bed, make sure it lies flat
-3. Focus the laser on the Z axis
+1.  Turn on the laser
+2.  Place material on the bed, make sure it lies flat
+3.  Focus the laser on the Z axis
      a.  Put into focus mode
      b.  Place the focus tool on top of your material, 
      c.  Line the 45 slope with the front of the laser carriage.  Use the up and down arrows (reversed) to move the cutting bed up and down.
