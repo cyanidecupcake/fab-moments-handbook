@@ -46,7 +46,7 @@ Do not slam the lid.  If it is closed but the machine disagrees, gently jiggle t
 <li>Press the green play button to start cutting</li>
 
 <li>When the job finishes do not move the material until you check to make sure it cut the whole way through.</li>
-</ol>
+
 
 ---
 **Note:**
