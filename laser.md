@@ -20,6 +20,10 @@ A safety cutoff prevents the laser from firing while the lid or sides are open.
 
 The laser runs from left to right, cuts running lengthwise will cut faster than cuts going up and down.  When laying out rasters have them run along the length of the bed. 
 
+---
+
+
+
 **How to Setup the Laser:**
 <ol>
 <li>Turn on the laser</li>
